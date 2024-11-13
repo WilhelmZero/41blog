@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/WilhelmZero/theme-academic-cv.git
+	branch = main
